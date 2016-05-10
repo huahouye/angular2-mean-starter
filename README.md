@@ -5,7 +5,7 @@ angular2 mean starter
 ```
 git clone https://github.com/huahouye/angular2-mean-starter.git
 cd angular2-mean-starter
-npm install -g typescript && npm install -g concurrently
+npm install -g typescript && npm install -g concurrently && npm install -g nodemon 
 npm install
 npm start
 ```
