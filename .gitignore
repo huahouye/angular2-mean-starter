@@ -1,0 +1,26 @@
+
+# node js lib
+node_modules
+
+# cloud config files
+start.sh
+# VIM
+*~
+*.swp
+
+#Eclipse files
+.jshintrc
+*.project
+.sublime-project
+.tern-project
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# 自定义
+public/typings
+public/app/**/*.js
+public/app/**/*.js.map
+npm-debug.log
