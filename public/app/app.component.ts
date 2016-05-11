@@ -17,7 +17,7 @@ import {HeroFormComponent} from './hero-form/index';
     component: HeroFormComponent,
     // useAsDefault: true
 }, {
-    path: 'todo',
+    path: '/todo',
     name: 'TODO',
     component: HeroFormComponent
 }])
